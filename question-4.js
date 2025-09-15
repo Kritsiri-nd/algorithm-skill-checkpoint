@@ -1,5 +1,10 @@
 function sortProductsByPrice(products) {
   // Your code here
+  for (let i =0 ;i<products.length -1 ; i++) {
+    for (let j =0 ;j<products.length -1 ; j++){
+      //จำไม่ได้ครับ
+    }
+  }
 }
 
 // Test case
